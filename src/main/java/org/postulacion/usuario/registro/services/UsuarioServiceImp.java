@@ -1,6 +1,5 @@
 package org.postulacion.usuario.registro.services;
 
-import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
